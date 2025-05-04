@@ -21,9 +21,12 @@ I'm Ayuba a web developer, who has a keen eye for Frontend development and also 
   
 - Mobile Development
   - Currently learning Flutter
+  - Reacr Native
   
 - Database Management
   - NoSQL(MongoDB)
+  - Appwrite
+  - Supabase
   
 - Design tools
   - Figma 
