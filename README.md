@@ -1,35 +1,12 @@
+# 👋 Hi, I'm Alexander Preye (: you can call me vyuba
 
-# Hello there 👋 
-I'm Ayuba a web developer, who has a keen eye for Frontend development and also design with experience in eCommerce platforms like Shopify etc. Let's work together and bring wonderful projects live😆 
+> *Frontend Developer | Builder*
 
+🧭 Current Focus
+- Exploring shopify ecosystem with building shopify web apps.
+- Building and shipping SaaS tools.
+- Creating interactive UI experiences with animation, motion, and interaction in mind.
 
-### ✔️ I'm currently learning
-- Flutter / Dart for Mobile development
-
-### 💡 Skill
-- Frontend Development 
-  - HTML
-  - CSS
-  - Javascript
-  - Typescript
-  - React js
-  - Next js
-  - Liquid template
-  - Framer motion
-  - gsap
-  
-  
-- Mobile Development
-  - Currently learning Flutter
-  - Reacr Native
-  
-- Database Management
-  - NoSQL(MongoDB)
-  - Appwrite
-  - Supabase
-  
-- Design tools
-  - Figma 
-  - Adobe XD
-
-![my github stats - dark](https://github-readme-stats.vercel.app/api?username=vyuba&show_icons=true&count_private=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vyuba&layout=compact&count_private=true)
+### 🧰 Tools I Work With
+```ts
+JavaScript · TypeScript · React · Next.js · Tailwind CSS · GSAP · Framer Motion · Liquid · Appwrite
