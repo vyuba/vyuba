@@ -9,4 +9,4 @@
 
 ### 🧰 Tools I Work With
 ```ts
-JavaScript · TypeScript · React · Next.js · Tailwind CSS · GSAP · Framer Motion · Liquid · Appwrite
+JavaScript · TypeScript · React · Next.js · Tailwind CSS · GSAP · Framer Motion · Liquid · Appwrite · Supabase · MongoDB
